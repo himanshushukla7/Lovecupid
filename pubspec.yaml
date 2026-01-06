@@ -1,0 +1,72 @@
+name: lovecupid
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  flutter_screenutil: ^5.9.3
+  image_picker: ^1.2.1
+  flutter_svg: ^2.0.9
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/images/lovecupid_logo.png
+    - assets/images/emoji_1.png
+    - assets/images/emoji_2.png
+    - assets/images/emoji_3.png  
+    - assets/images/photo.png
+    - assets/images/chat.png
+    - assets/images/loc.png
+    - assets/images/Group 944.png
+    - assets/images/Group 945.png
+    - assets/images/p1.png
+    - assets/images/p2.png
+    - assets/images/p3.jpg
+    - assets/images/p4.png
+    - assets/images/p5.jpg
+    - assets/images/p6.jpg
+    - assets/images/p7.jpg
+    - assets/images/p8.jpg
+    - assets/images/p9.jpg
+    - assets/images/m1.jpg
+    - assets/images/m2.jpg
+    - assets/images/m3.jpg
+    - assets/images/m4.jpg
+    - assets/images/c1.jpg
+    - assets/images/c2.jpg
+    - assets/images/c3.jpg
+    - assets/images/c4.jpg
+    - assets/images/c5.jpg
+    - assets/images/c6.jpg
+    - assets/icons/like.png
+    - assets/icons/cards.png
+    - assets/icons/message.png
+    - assets/icons/people.png  
+    - assets/icons/send.svg
+    - assets/icons/search.png
+    - assets/icons/google.png
+    - assets/icons/fb.png
+    - assets/images/login_bg.jpeg
